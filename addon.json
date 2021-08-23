@@ -1,0 +1,21 @@
+{
+    "name": "Expand Discussion",
+    "description": "This plugin adds related media information to get discussion API endpoint.",
+    "version": "0.0.1",
+    "license": "MIT",
+    "type": "addon",
+    "key": "expanddiscussion",
+    "mobileFriendly": true,
+    "hasLocale": true,
+    "settingsUrl": "/settingse/expanddiscussion",
+    "pluginUrl": "https://github.com/avikuu/ExpandDiscussion",
+    "authors": [
+        {
+            "name": "Avino",
+            "homepage": ""
+        }
+    ],
+    "require": {
+        "vanilla": ">=2021.012"
+    }
+}
